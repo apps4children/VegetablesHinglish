@@ -3,7 +3,7 @@
 
 App Description
 
-VegetablesHinglish is a learning app for children to learn about the names of the vegetables and identify the vegetable. Through this app, the children will learn to identify the vegetable with their spellings, match the spelling with the vegetable and match vegetable with the shape of the fruit. There is also as assessment record maintained, where the number of mistakes done in every level is recorded. This app has many different stages, and is in Hinglish. This is a good teaching tool for children with special needs because of the various combinations like matching, sorting and grouping principles are used in this app.
+VegetablesHinglish is a learning app for children to learn about the names of the vegetables and identify the vegetable. Through this app, the children will learn to identify the vegetable with their spellings, match the spelling with the vegetable and match vegetable with the shape of the vegetable. There is also as assessment record maintained, where the number of mistakes done in every level is recorded. This app has many different stages, and is in Hinglish. This is a good teaching tool for children with special needs because of the various combinations like matching, sorting and grouping principles are used in this app.
 
 How to install
 
